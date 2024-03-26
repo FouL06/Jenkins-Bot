@@ -27,3 +27,5 @@ docs/**/*
 .turbo
 .tmp
 coverage
+.DS_Store
+.commandkit
